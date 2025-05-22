@@ -37,6 +37,7 @@ This is a simple **Spotify Clone** web project built using HTML, CSS, and JavaSc
 ---
 
 ## 📸 How it Looks
+![image](https://github.com/user-attachments/assets/984d64a1-33e7-4c03-ad40-f3730d885a25)
 
 
 ---
